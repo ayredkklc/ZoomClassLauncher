@@ -7,7 +7,7 @@ The following functionality is complete:
 
 * [x] User gets notification on the side of their screen 25 minutes before class starts.
 * [x] User's class is launched after 25 minutes of the notification
-* [x] User doesnt need to keep in track of the class the code does it fot them. 
+* [x] User doesnt need to keep in track of the class the code does it for them. 
 
 ## Notes
 
