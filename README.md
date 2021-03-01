@@ -1,4 +1,4 @@
-# zoomClassLauncher
+# ZoomClassLauncher
 This is an code which gives you notifications about 25 minutes before your class starts. Then after 25 minutes the code launches zoom with your class' link.
 
 ## User Stories
